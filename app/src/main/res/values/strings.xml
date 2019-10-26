@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SegundoParcial</string>
+    <string name="lblTitulo">Agenda de Contactos</string>
+    <string name="btnagregar">Agregar Contactos</string>
+    <string name="btnlista">Listar Contactos</string>
+    <string name="btnorden">Ordenar Contactos</string>
+    <string name="lblnom">Nombre</string>
+    <string name="lblape">Apellido</string>
+    <string name="lbltel1">Telefono 1</string>
+    <string name="lbltel2">Telefono 2</string>
+    <string name="btnagregado">Agregar</string>
+</resources>
